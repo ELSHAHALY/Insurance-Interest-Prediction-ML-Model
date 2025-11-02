@@ -1,10 +1,7 @@
-# Insurance-Interest-Prediction-ML-Model
-A supervised machine learning model that predicts whether a user is likely to apply for an insurance product based on behavioural and demographic data.
-
 # Insurance Interest Prediction – Machine Learning Model
 
 This project is the first machine learning model I developed as part of my graduation project.  
-The goal of the model is to predict whether a user is interested in applying for an insurance product based on various input features.
+The objective of the model is to determine whether a user is interested in applying for an insurance product by analyzing various input features. This is achieved using a supervised machine learning model that predicts the likelihood of a user applying for an insurance product based on behavioral and demographic data.
 
 ## 🔍 Project Overview
 The system analyzes user data and classifies each user into:
