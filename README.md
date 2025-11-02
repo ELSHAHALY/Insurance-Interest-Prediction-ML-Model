@@ -37,8 +37,6 @@ The project allowed me to practice:
 /src
 README.md
 
-markdown
-Copy code
 
 ## 📦 How to Run
 1. Install dependencies  
